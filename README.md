@@ -6,6 +6,8 @@ The following documentation explains the process of installing and using this cu
 component which will help you integrate Oracle ODA with any instance of Engagement
 Cloud.
 
+<b> Detailed instructions on how to use this custom component can be found in the included pdf : Instructions_on_how_to_use_the_custom_component .pdf</b><br>
+
 <h2>INSTALLATION</h2>
 
 <b>What Do You Need?</b>
